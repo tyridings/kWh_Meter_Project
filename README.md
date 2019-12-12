@@ -1,4 +1,7 @@
 # kWh Smart Plug Project
-![Final Prototype Design](Final_Design.jpg)
+
+![Fritzing Diagram](fritzing_trans_and_receiver.jpg)
 
 Designed a kWh smart plug that measures personal devices in your house in real time
+
+![Final Prototype Design](Final_Design.jpg)

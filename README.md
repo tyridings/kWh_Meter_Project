@@ -6,6 +6,13 @@
 
 ![Fritzing Diagram](fritzing_trans_and_receiver.JPG)
 
+
+
 ### The final shot of the prototype inside the case with the OLED on the front. 
 
 ![Final Prototype Design](Final_Design.jpg)
+
+
+### A graph from MATLAB showing a hairdryer being used for 225 second time interval
+
+![Graph Matlab](kWh_Plot.JPG)

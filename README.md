@@ -6,5 +6,6 @@
 
 ![Fritzing Diagram](fritzing_trans_and_receiver.JPG)
 
+### The final shot of the prototype inside the case with the OLED on the front. 
 
 ![Final Prototype Design](Final_Design.jpg)
